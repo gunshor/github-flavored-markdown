@@ -11,7 +11,7 @@ GFM modifications for newlines, underscore-words, autolinking and GitHub SHA1/is
 
 <p class="warn">
   GitHub now has previews on all inputs that use GFM.
-  <strong>This live preview should be considered depreciated.</strong>
+  <strong>This live preview should be considered deprecated.</strong>
   It may not render exactly the same way github.com
   will due to differences in markdown libraries.
 </p>
